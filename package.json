@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Flickr to perform live image search with React using Webpack, ES6, Babel & Sass",
   "main": "index.js",
+  "repositiry":"https://github.com/co851002/flickrSearch",
   "scripts": {
     "dev": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
