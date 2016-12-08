@@ -35,7 +35,7 @@ http://localhost:8080/
 ## TODO's
 
 * Debounce search input with lodash
-* Create standalone Dsplay component
+* Create standalone Display component
 * Redo with map(), ie. this.props.data.displayContent.map()
 * @ https://facebook.github.io/react/docs/lists-and-keys.html#keys
 * Use [Masonry](https://github.com/desandro/masonry) for rendering search result layout
