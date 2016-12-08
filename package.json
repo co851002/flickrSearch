@@ -7,8 +7,8 @@
     "dev": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
     "test:watch": "npm run test -- --watch",
-    "postinstall":"webpack -p",
-    "start":"node server.js"
+    "postinstall": "webpack -p",
+    "start": "node server.js"
   },
   "author": "Christo Oosthuizen",
   "license": "ISC",
@@ -28,7 +28,7 @@
     "react-addons-test-utils": "^0.14.7",
     "sass-loader": "^4.0.2",
     "style-loader": "^0.13.1",
-    "webpack": "^1.12.9",
+    "webpack": "^1.14.0",
     "webpack-dev-server": "^1.16.2"
   },
   "dependencies": {
@@ -38,6 +38,7 @@
     "react-dom": "^0.14.3",
     "react-redux": "^4.0.0",
     "react-router": "^2.8.1",
-    "redux": "^3.0.4"
+    "redux": "^3.0.4",
+    "webpack": "^1.14.0"
   }
 }
