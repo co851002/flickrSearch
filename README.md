@@ -10,9 +10,7 @@ Coming soon
 
 ### Clone
 
-```
 https://github.com/co851002/flickrSearch
-```
 
 ### Install
 
@@ -32,9 +30,7 @@ npm start
 
 ### View
 
-```
 http://localhost:8080/
-```
 
 ## TODO's
 
