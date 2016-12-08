@@ -30,6 +30,12 @@ npm install
 npm start
 ```
 
+### View
+
+```
+http://localhost:8080/
+```
+
 ## TODO's
 
 * Debounce search input with lodash
