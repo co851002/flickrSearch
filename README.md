@@ -10,6 +10,10 @@ Coming soon
 
 ### Clone
 
+```
+https://github.com/co851002/flickrSearch
+```
+
 ### Install
 
 ##### Clone this repo and cd into directory
@@ -19,6 +23,7 @@ Coming soon
 ```
 npm install
 ```
+
 ### Run
 
 ```
