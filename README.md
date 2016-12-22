@@ -39,4 +39,4 @@ http://localhost:8080/
 * Redo with map(), ie. this.props.data.displayContent.map()
 * @ https://facebook.github.io/react/docs/lists-and-keys.html#keys
 * Use [Masonry](https://github.com/desandro/masonry) for rendering search result layout
-* Deploy to Heroku or Github Pages
+* ~~Deploy to Heroku or Github Pages~~
