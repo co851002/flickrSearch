@@ -93,7 +93,7 @@ var Content = React.createClass({
         </section>
         <footer>
           <a href="https://www.flickr.com/" target="_blank">
-            <img className="flickrLogo" src="../images/flickrLogo.png" />
+            <img className="flickrLogo" src="images/flickrLogo.png" />
           </a>
         </footer>
       </div>
