@@ -4,8 +4,8 @@ module.exports = {
         './src/index.js'
     ],
     output: {
-        ppath: __dirname ,
-        filename: 'bundle.js'
+        path: __dirname ,
+        filename: 'dist/bundle.js'
     },
     module: {
         loaders: [{
@@ -14,7 +14,8 @@ module.exports = {
             query: {
                 presets: ['react', 'es2015', 'stage-1']
             }
-        }, {
+        },
+        {
             test: /\.scss$/,
             loaders: ['style', 'css', 'sass'],
         }]
