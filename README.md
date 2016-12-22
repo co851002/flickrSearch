@@ -4,7 +4,7 @@ Flickr to perform live image search with React using Webpack, ES6, Babel & Sass
 
 ## Live demo
 
-Coming soon
+https://co851002.github.io/flickrSearch
 
 ## Usage
 
